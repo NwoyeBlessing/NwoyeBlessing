@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript, Azure, AWS, GCP and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Architect, Cloud Developer or Cloud Administrator (Intern or Junior level).
-- 📫 You can [view my resume] (https://github.com/BlessingNwoye/altschool-profile-template#) and contact me by emailing mailtobunwoye@gmail.com.
+- 📫 You can [view my resume](https://github.com/BlessingNwoye/altschool-profile-template#) and contact me by emailing mailtobunwoye@gmail.com.
 
 <!---
 NwoyeBlessing/NwoyeBlessing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
